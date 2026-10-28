@@ -3,23 +3,23 @@
 
 ## Controls
 
-W to move forward
-A to move left
-S to move backward
-D to move right
-Q to rotate left
-E to rotate right
-Space to boost up
+- W to move forward
+- A to move left
+- S to move backward
+- D to move right
+- Q to rotate left
+- E to rotate right
+- Space to boost up
 
-1-7 to toggle cameras (can also be changed from pause menu)
+- 1-7 to toggle cameras (can also be changed from pause menu)
 
-P to toggle lander light
-T to point easy cam at selected point (shown in diagnostic mode but can be done at any time)
-Y to point easy cam at lander (shown in diagnostic mode but can be done at any time)
+- P to toggle lander light
+- T to point easy cam at selected point (shown in diagnostic mode but can be done at any time)
+- Y to point easy cam at lander (shown in diagnostic mode but can be done at any time)
 
-R to reset game
-V to toggle diagnostic mode (before game start)
-Z to pause (during game)
+- R to reset game
+- V to toggle diagnostic mode (before game start)
+- Z to pause (during game)
 
 ## Attributions
 Font used: Gunship Font Version 5.1 
