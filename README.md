@@ -1,5 +1,5 @@
 # lunar-lander-3d
-3D Lunar Lander game developed in C++ using the openFrameworks open-source toolkit. Completed as a final project for CS134 w/ Professor Kevin Smith @ San Jose State University. Last modified Dec. 10, 2025.
+3D Lunar Lander game developed in C++ using the openFrameworks open-source toolkit. Completed as a final project for CS134 w/ Professor Kevin Smith @ San Jose State University. Originally published Dec. 10, 2025. Last modified Nov. 10, 2026.
 
 ## Controls
 
